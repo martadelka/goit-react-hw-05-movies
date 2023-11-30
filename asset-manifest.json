@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.7bf4c9f8.js",
+    "main.css": "/goit-react-hw-05-movies/static/css/main.cbec7061.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.bb336714.js",
+    "static/js/526.4301a290.chunk.js": "/goit-react-hw-05-movies/static/js/526.4301a290.chunk.js",
+    "static/js/321.a100de63.chunk.js": "/goit-react-hw-05-movies/static/js/321.a100de63.chunk.js",
+    "static/js/631.fedc22c6.chunk.js": "/goit-react-hw-05-movies/static/js/631.fedc22c6.chunk.js",
+    "static/js/219.22974aca.chunk.js": "/goit-react-hw-05-movies/static/js/219.22974aca.chunk.js",
+    "static/js/806.2769bbda.chunk.js": "/goit-react-hw-05-movies/static/js/806.2769bbda.chunk.js",
+    "static/js/162.a41c9ae8.chunk.js": "/goit-react-hw-05-movies/static/js/162.a41c9ae8.chunk.js",
     "index.html": "/goit-react-hw-05-movies/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.7bf4c9f8.js.map": "/goit-react-hw-05-movies/static/js/main.7bf4c9f8.js.map"
+    "main.cbec7061.css.map": "/goit-react-hw-05-movies/static/css/main.cbec7061.css.map",
+    "main.bb336714.js.map": "/goit-react-hw-05-movies/static/js/main.bb336714.js.map",
+    "526.4301a290.chunk.js.map": "/goit-react-hw-05-movies/static/js/526.4301a290.chunk.js.map",
+    "321.a100de63.chunk.js.map": "/goit-react-hw-05-movies/static/js/321.a100de63.chunk.js.map",
+    "631.fedc22c6.chunk.js.map": "/goit-react-hw-05-movies/static/js/631.fedc22c6.chunk.js.map",
+    "219.22974aca.chunk.js.map": "/goit-react-hw-05-movies/static/js/219.22974aca.chunk.js.map",
+    "806.2769bbda.chunk.js.map": "/goit-react-hw-05-movies/static/js/806.2769bbda.chunk.js.map",
+    "162.a41c9ae8.chunk.js.map": "/goit-react-hw-05-movies/static/js/162.a41c9ae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.7bf4c9f8.js"
+    "static/css/main.cbec7061.css",
+    "static/js/main.bb336714.js"
   ]
 }
