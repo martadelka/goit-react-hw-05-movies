@@ -38,13 +38,13 @@ export default function MovieDetails() {
 
   const goBack = () => navigate(from);
 
-  const isCast = location.pathname.includes('cast');
-  const castLink = isCast ? `/movies/${movieId}` : `/movies/${movieId}/cast`;
+//   const isCast = location.pathname.includes('cast');
+//   const castLink = isCast ? `/movies/${movieId}` : `/movies/${movieId}/cast`;
 
-  const isReviews = location.pathname.includes('reviews');
-  const reviewsLink = isReviews
-    ? `/movies/${movieId}`
-    : `/movies/${movieId}/reviews`;
+//   const isReviews = location.pathname.includes('reviews');
+//   const reviewsLink = isReviews
+//     ? `/movies/${movieId}`
+//     : `/movies/${movieId}/reviews`;
 
   return (
     <>
@@ -74,12 +74,12 @@ export default function MovieDetails() {
         </MovieDetailsStyle>
         <NavList>
           <li>
-            <NavItemLink state={{ from }} to={castLink}>
+            <NavItemLink state={{ from }} to={'cast'}>
               Cast
             </NavItemLink>
           </li>
           <li>
-            <NavItemLink state={{ from }} to={reviewsLink}>
+            <NavItemLink state={{ from }} to={'reviews'}>
               Reviews
             </NavItemLink>
           </li>

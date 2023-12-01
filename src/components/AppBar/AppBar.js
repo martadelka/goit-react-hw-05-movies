@@ -7,11 +7,8 @@ export default function AppBar() {
   return (
     <Box
       as="header"
-      display="flex"
-      alignItems="center"
       p={3}
       bg={theme.colors.bg_dark}
-      boxShadow="shadow"
     >
       <AppBarTitle to="/">Movies</AppBarTitle>
       <AppBarList>
